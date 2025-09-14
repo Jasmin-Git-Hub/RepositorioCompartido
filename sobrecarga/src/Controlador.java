@@ -1,4 +1,4 @@
-
+// se realizo cambios en la calse controladora 
 import java.io.IOException;
 import java.util.Scanner;
 public class Controlador {
