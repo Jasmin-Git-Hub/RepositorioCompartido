@@ -1,5 +1,4 @@
 //En esta clase llamaremos a los métodos que nor sirvan para ejecutar el método principal
-//En esta clase se implementará un menú de opciones
 import java.io.IOException;
 import java.util.Scanner;
 public class Controlador {
