@@ -1,4 +1,11 @@
+
 // se realizo cambios en la calse controladora 
+
+//En esta clase llamaremos a los métodos que nor sirvan para ejecutar el método principal
+//En esta clase se desarrolla el menú principal del programa
+//Se corrigieron cambios en el menú
+
+
 import java.io.IOException;
 import java.util.Scanner;
 public class Controlador {
