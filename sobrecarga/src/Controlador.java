@@ -1,4 +1,4 @@
-
+//En esta clase llamaremos a los métodos que nor sirvan para ejecutar el método principal
 import java.io.IOException;
 import java.util.Scanner;
 public class Controlador {
